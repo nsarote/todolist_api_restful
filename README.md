@@ -7,6 +7,7 @@ Deployment step copy the TaskAPI-0.1.war to tomcat/webapps folder then start the
 	http://localhost:8080/TaskAPI/task
 
 ##2) RESTful API of the task
+I provided API Document.docx
 
 ##2.1) listTask
 
