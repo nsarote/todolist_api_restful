@@ -5,6 +5,7 @@ Todo List API with RESTful Service Assignment
 http://localhost:8080/TaskAPI/task
 
 2) RESTful API of the task
+
 2.1) listTask
 http://localhost:8080/TaskAPI/api/listTask
 [{"class":"com.dotography.Task","id":1,"content":"Test Content 1","status":{"enumType":"com.dotography.Status","name":"Pending"},"subject":"Test 1"},{"class":"com.dotography.Task","id":2,"content":"Test Content 2","status":{"enumType":"com.dotography.Status","name":"Pending"},"subject":"Test 2"}]
